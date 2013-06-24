@@ -1,0 +1,4 @@
+LOG:  database system was shut down at 2013-06-23 18:35:42 PDT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "barntalk" does not exist
